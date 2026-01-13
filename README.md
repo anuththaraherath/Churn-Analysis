@@ -1,5 +1,6 @@
 # Churn-Analysis
 Customer Churn Analysis Using Python | A Beginner Data Analytics Project
+
 Customer retention is a major challenge in the telecom industry. Losing existing customers not only impacts revenue but also increases the cost of acquiring new ones. As a beginner in data analytics, I wanted to understand why customers leave and how data can help identify churn patterns. This motivated me to build a Customer Churn Analysis project using Python.
 
 The goal of this project was to analyze telecom customer data and identify key factors that influence customer churn. Understanding these patterns can help businesses take early actions to retain customers and improve long-term customer relationships.
